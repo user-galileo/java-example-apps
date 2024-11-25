@@ -52,7 +52,7 @@ public class Calculator implements ICalculator {
     public static void main(String[] args) 
     {
         int a = 0;
-        String ne_ws;
+        String news;
         System.out.println("Hello Calculator...");
     }
 }
